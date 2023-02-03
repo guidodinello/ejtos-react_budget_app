@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ejtos-react_budget_app/static/css/main.44f8b8b5.css",
+    "main.js": "/ejtos-react_budget_app/static/js/main.d9aad148.js",
+    "static/js/787.7385fb95.chunk.js": "/ejtos-react_budget_app/static/js/787.7385fb95.chunk.js",
+    "index.html": "/ejtos-react_budget_app/index.html",
+    "main.44f8b8b5.css.map": "/ejtos-react_budget_app/static/css/main.44f8b8b5.css.map",
+    "main.d9aad148.js.map": "/ejtos-react_budget_app/static/js/main.d9aad148.js.map",
+    "787.7385fb95.chunk.js.map": "/ejtos-react_budget_app/static/js/787.7385fb95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.d9aad148.js"
+  ]
+}
